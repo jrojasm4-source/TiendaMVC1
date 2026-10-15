@@ -1,0 +1,14 @@
+com\tienda\modelo\Usuario.class
+com\tienda\dao\ProductoDAO.class
+com\tienda\config\Conexion.class
+com\tienda\modelo\Producto.class
+com\tienda\modelo\ItemCarrito.class
+com\tienda\controller\AuthController.class
+com\tienda\controller\ProductoController.class
+com\tienda\controller\CarritoController.class
+com\tienda\controller\UsuarioController.class
+com\tienda\modelo\Rol.class
+com\tienda\dao\UsuarioDAO.class
+com\tienda\dao\RolDAO.class
+com\tienda\util\Hash.class
+com\tienda\util\PruebaConexion.class

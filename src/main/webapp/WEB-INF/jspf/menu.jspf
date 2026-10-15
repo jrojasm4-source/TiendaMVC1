@@ -1,0 +1,8 @@
+
+<nav>
+    <a href="index.jsp">Inicio</a>
+    <a href="login.jsp">Login</a>
+    <a href="registro.jsp">Registro</a>
+    <a href="productos.jsp">Productos</a>
+</nav>
+<hr>
